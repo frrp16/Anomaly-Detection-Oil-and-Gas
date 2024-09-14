@@ -3,3 +3,6 @@ datasets/
 logs/
 *.pkl
 *.zip
+*.keras
+models/
+*.txt
