@@ -6,3 +6,4 @@ logs/
 *.keras
 models/
 *.txt
+tf_dataset/
